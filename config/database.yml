@@ -16,6 +16,7 @@ default: &default
   username: learn_calendar_rails_react
   password: password
   host: localhost
+  port: 3307
 
 development:
   <<: *default
